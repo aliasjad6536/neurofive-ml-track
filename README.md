@@ -3,7 +3,7 @@
 This repo tracks my full progress through the Neurofive Solutions Machine Learning internship.
 
 **Live demo apps:**
-- Titanic Survival Predictor: [PASTE YOUR TITANIC STREAMLIT URL HERE]
+- Titanic Survival Predictor: https://aliasjad6536-neurofive-ml-track-app-sah9z0.streamlit.app/
 - Employee Attrition Predictor (Capstone): https://aliasjad6536-neurofive-ml-track-attrition-app-py6ffo.streamlit.app/
 
 ---
@@ -85,7 +85,7 @@ Used the same engineered feature set (`family_size`, `is_alone`, `has_cabin`).
 ## 10. Deploy Your Model as a Live Web App
 - Built a **Streamlit** app (`app.py`) that loads the saved `titanic_pipeline.joblib` and predicts survival from user-entered passenger details (class, sex, age, fare, embarkation port, family size, cabin).
 - Deployed for free on **Streamlit Community Cloud**.
-- **Live app:** [PASTE YOUR TITANIC STREAMLIT URL HERE]
+- **Live app:** https://aliasjad6536-neurofive-ml-track-app-sah9z0.streamlit.app/
 
 ## 11. Capstone: End-to-End Employee Attrition Prediction
 A self-chosen project outside the guided track datasets — see full details in [`CAPSTONE_README.md`](./CAPSTONE_README.md) and [`CASE_STUDY.md`](./CASE_STUDY.md).
